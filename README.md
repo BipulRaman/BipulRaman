@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a full stack Developer seasoned in design and development of applications, having specialization in Microsoft Technologies, Office365 & Azure Cloud. I am also learning next generation technologies like Machine Learning and Quantum Computing.
+
+### Experiences
+I have experience on developing Business Productivity Solutions, Web Apps and Intranet for various domains. I have also worked at ARDC(HAL) for an automation project using micro-controller programming on an Indigenous Light Combat Aircraft.
+
+### Activities and Interests
+In my free time, i do some creative works like building some e-hacks, coding and publishing it as open-source on GitHub, write blogs, do social engagements. I have published two research papers in National level conferences also. Apart from my profession, i am interested in Renewable energy, teaching and traveling
+
 <!--
 **BipulRaman/BipulRaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
