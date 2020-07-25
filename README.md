@@ -8,6 +8,11 @@ I have experience on developing Business Productivity Solutions, Web Apps and In
 ### Activities and Interests
 In my free time, i do some creative works like building some e-hacks, coding and publishing it as open-source on GitHub, write blogs, do social engagements. I have published two research papers in National level conferences also. Apart from my profession, i am interested in Renewable energy, teaching and traveling
 
+### My works
+- [ My GitHub Repository](https://github.com/BipulRaman?tab=repositories)
+- [My Publications on Google Scholar](https://scholar.google.co.in/citations?user=zp8zxhwAAAAJ)
+- [My Publications on EE Portal](https://electrical-engineering-portal.com/author/bipulraman)
+
 <!--
 **BipulRaman/BipulRaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
