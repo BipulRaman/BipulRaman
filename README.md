@@ -3,7 +3,7 @@
 I am Bipul Raman, a Software Developer working at Microsoft in India. I am a full stack Developer seasoned in design and development of applications, having specialization in Microsoft Technologies, Office365 & Azure Cloud. I am also learning next generation technologies like Machine Learning and Quantum Computing.
 
 ### Experiences
-I have experience and expertise on developing Cloud based Solutions for industries from various domain. I have also worked at ARDC(HAL) for an automation project using micro-controller programming on an Indigenous Light Combat Aircraft.
+I have experience and expertise on developing Cloud based Solutions for industries from various domain. I have also worked at *Aircraft Research and Design Center (HAL)* for an automation project using micro-controller programming on an Indigenous Light Combat Aircraft.
 
 ### Activities and Interests
 In my free time, i do some creative works like building some e-hacks, coding and publishing it as open-source on GitHub, write blogs, do social engagements. I have published two research papers in National level conferences also. Apart from my profession, i am interested in Renewable energy, teaching and traveling
