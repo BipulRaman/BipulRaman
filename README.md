@@ -1,16 +1,18 @@
 ### Hello World ! 👋
 
-I am **Bipul Raman**, a Software Engineer working at **Microsoft** in India. I have seasoned experience in design and development of web applications. I am an active learner and I love to explore new technologies. I have no special talents, I am only passionately curious. My passion towards technologies motivates me everyday.
+My name is **Bipul Raman**, and I am a Software Engineer employed at **Microsoft** in India. I possess extensive experience in the design and development of hyper-scale distributed systems over cloud infrastructure. As a diligent learner, I enthusiastically embrace opportunities to explore emerging technologies. My driving force lies in an unwavering passion for technology, which serves as a constant source of motivation in my daily endeavors.
 
 ### Experiences
-Digital transformation is my area of expertise. I have rich experience in developing Cloud based Solutions for industries from various domains (mostly in Banking and Public Sector). I have led several mission critical projects which were delivered with high a grade of satisfaction. Visit the timeline page of this website to view my achievements and career milestones.
+My professional focus lies in digital transformation, with a wealth of experience in crafting cloud-based solutions infused with AI capabilities. Throughout my career, I have successfully led numerous mission-critical projects, achieving a high level of client satisfaction. For an overview of my accomplishments and career milestones, I invite you to explore (https://bipul.in/timeline)[https://bipul.in/timeline]
 
 ### Activities and Interests
-In my free time, I do creative work like building e-hacks, coding and publishing it as open-source on GitHub, write blogs, do social engagements.I love to automate my work. At my work, I have been actively involved in developing IPs (Intellectual Properties) and Toolkit which is actively used in projects. Apart from my profession, I am interested in Green technologies, teaching and traveling. I love travelling and meeting technology enthusiasts.
+During my leisure time, I delight in a diverse range of pursuits including listening and playing musical instruments, delving into new tech developments, and contributing to social causes. My passion for travel takes me to towering heights; I've reached the Mt. Everest Base Camp, ascended to the summits of Kalapatthar Peak (5644m) and Nangkartsang Peak (5072m) amidst the majestic Himalayas in Nepal. Additionally, I've experienced the thrill of skydiving in San Diego.
+
+### Social Leadership
+I hold the esteemed position of Founder and Leader of the Alumni Association at Navodaya Vidyalaya, where I actively participate in regional and national level forums to represent the alumni community. Our organization is dedicated to enhancing the welfare of both our alumni and the school as a cohesive entity. Furthermore, we are committed to making a positive impact on society through various social initiatives, particularly in the education domain. This includes extending support to students from other schools, particularly those from underprivileged backgrounds, in order to uplift and empower them.
 
 ### Guest Speaker
-I have visited several Universities / Colleges / Schools for delivering guest lectures on various topics including AI / ML, Cloud Computing, Digital Transformation, Career Development etc. Please reach out to me for scheduling a guest lecture at your institution.
-
+I have had the privilege of delivering guest lectures on diverse subjects, such as AI/ML, Cloud Computing, Digital Transformation, and Career Development, at numerous prestigious universities, colleges, and schools. If you are interested in scheduling a guest lecture at your institution, please feel free to contact me to discuss the details further.
 ### My works
 - [ My Tech Blogs](https://blogs.bipul.in)
 - [ My GitHub Repository](https://github.com/BipulRaman?tab=repositories)
