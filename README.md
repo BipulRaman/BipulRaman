@@ -3,7 +3,7 @@
 My name is **Bipul Raman**, and I am a Software Engineer employed at **Microsoft** in India. I possess extensive experience in the design and development of hyper-scale distributed systems over cloud infrastructure. As a diligent learner, I enthusiastically embrace opportunities to explore emerging technologies. My driving force lies in an unwavering passion for technology, which serves as a constant source of motivation in my daily endeavors.
 
 ### Experiences
-My professional focus lies in digital transformation, with a wealth of experience in crafting cloud-based solutions infused with AI capabilities. Throughout my career, I have successfully led numerous mission-critical projects, achieving a high level of client satisfaction. For an overview of my accomplishments and career milestones, I invite you to explore (https://bipul.in/timeline)[https://bipul.in/timeline]
+My professional focus lies in digital transformation, with a wealth of experience in crafting cloud-based solutions infused with AI capabilities. Throughout my career, I have successfully led numerous mission-critical projects, achieving a high level of client satisfaction. For an overview of my accomplishments and career milestones, I invite you to explore https://bipul.in/timeline.
 
 ### Activities and Interests
 During my leisure time, I delight in a diverse range of pursuits including listening and playing musical instruments, delving into new tech developments, and contributing to social causes. My passion for travel takes me to towering heights; I've reached the Mt. Everest Base Camp, ascended to the summits of Kalapatthar Peak (5644m) and Nangkartsang Peak (5072m) amidst the majestic Himalayas in Nepal. Additionally, I've experienced the thrill of skydiving in San Diego.
